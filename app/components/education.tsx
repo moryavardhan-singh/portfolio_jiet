@@ -1,21 +1,19 @@
 export default function Education() {
   const entries = [
     {
-      degree: "Bachelor of Technology — Computer Science",
-      institution: "Rajasthan Technical University, Kota",
-      date: "2020 – 2024",
+      degree: "Bachelor of Technology — Data Science",
+      institution: "Jiet University, Rajasthan",
+      date: "2024– 2028",
       points: [
         "CGPA: 7.8 / 10",
         "Specialised in Web Technologies and Data Structures & Algorithms.",
-        "Final year project: Real-time collaborative code editor using WebSockets.",
       ],
     },
     {
       degree: "Higher Secondary Certificate (12th Grade) — Science",
       institution: "Central Board of Secondary Education, Rajasthan",
-      date: "2018 – 2020",
       points: [
-        "Percentage: 87%",
+        "Percentage: 73%",
         "Majored in Physics, Chemistry & Mathematics.",
       ],
     },
